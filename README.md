@@ -24,8 +24,9 @@
 - 🤖 Passionate about **Machine Learning**, **Computer Vision**, and **Data Analysis**
 - 🛠️ I build end-to-end ML pipelines and interactive AI-powered web apps
 - 📊 Strong foundation in data preprocessing, model training, and evaluation
-- 🌱 Always learning — currently exploring deep learning and advanced ML techniques
+- 🌱 Currently exploring **Deep Learning** and advanced ML techniques
 - 🏆 NTI Machine Learning Graduate (Ministry of Communications)
+- 🎖️ NVIDIA — Fundamentals of Deep Learning (in progress)
 
 ---
 
@@ -33,7 +34,7 @@
 
 ### 🧪 [ML Studio — Interactive ML Pipeline](https://github.com/v7med7elmy-ai/ml-studio-pipeline)
 > End-to-end AutoML web app built from scratch with Streamlit. Upload any dataset and run the full ML pipeline through a clean GUI — preprocessing, visualization, training, and evaluation.
-> 
+>
 > `Python` `Streamlit` `Scikit-learn` `SMOTE` `PCA` `GridSearchCV`
 
 ---
@@ -64,6 +65,7 @@
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **ML & Data:**
@@ -81,6 +83,15 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎖️ Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
+| Machine Learning Track | NTI — Ministry of Communications, Egypt |
+| Fundamentals of Deep Learning | NVIDIA (in progress) |
 
 ---
 
