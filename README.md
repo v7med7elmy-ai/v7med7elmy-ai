@@ -26,7 +26,7 @@
 - 📊 Strong foundation in data preprocessing, model training, and evaluation
 - 🌱 Currently exploring **Deep Learning** and advanced ML techniques
 - 🏆 NTI Machine Learning Graduate (Ministry of Communications)
-- 🎖️ NVIDIA — Fundamentals of Deep Learning (in progress)
+- 🎖️ NVIDIA — Fundamentals of Deep Learning 
 
 ---
 
@@ -97,8 +97,7 @@
 | Certificate | Issuer |
 |-------------|--------|
 | Machine Learning Track | NTI — Ministry of Communications, Egypt |
-| Fundamentals of Deep Learning | NVIDIA (in progress) |
-
+| Fundamentals of Deep Learning | NVIDIA ✅ |
 ---
 
 ## 📊 GitHub Stats
