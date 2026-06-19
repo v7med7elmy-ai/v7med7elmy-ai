@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Helmy 👋</h1>
 
-<h3 align="center">Machine Learning Student | AI Engineerin | Computer Vision | Data Analysis</h3>
+<h3 align="center">Machine Learning Student | AI Engineering | Computer Vision | Data Analysis</h3>
 
 <br/>
 
