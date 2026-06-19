@@ -38,6 +38,12 @@
 > `Python` `Streamlit` `Scikit-learn` `SMOTE` `PCA` `GridSearchCV`
 
 ---
+### 🛍️ [Rawnaq Brand — E-Commerce Platform](https://github.com/v7med7elmy-ai/rawnaq-brand)
+> Full-stack e-commerce web app for a real Egyptian fashion brand. Features consumer storefront, shopping cart, checkout engine, role-based admin dashboard, and complete inventory CRUD — backed by SQLite.
+>
+> `Python` `Streamlit` `SQLite` `CSS` `Multi-page App`
+
+---
 
 ### 📉 [Telco Customer Churn Prediction](https://github.com/v7med7elmy-ai/telco-customer-churn-prediction)
 > Binary classification project comparing 5 ML models to predict telecom customer churn. Full pipeline with SMOTE, PCA, and hyperparameter tuning. Best accuracy: **80%**
