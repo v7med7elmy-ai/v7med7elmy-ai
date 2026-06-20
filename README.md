@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed Helmy 👋</h1>
+<h1 align="center">Hi, I'm Ahmed Helmy </h1>
 
 <h3 align="center">Machine intelligence Student | AI Engineering | Data Analysis</h3>
 
