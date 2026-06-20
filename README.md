@@ -17,7 +17,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=v7med7elmy-ai&color=blue&style=flat" />
+</p>
+---
 ## 👨‍💻 About Me
 
 - 🎓 AI Engineering Student — Faculty of Artificial Intelligence, Menoufia University
