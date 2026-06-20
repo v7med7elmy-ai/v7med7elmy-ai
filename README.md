@@ -96,8 +96,10 @@
 
 | Certificate | Issuer |
 |-------------|--------|
-| Machine Learning Track | NTI — Ministry of Communications, Egypt |
-| Fundamentals of Deep Learning | NVIDIA ✅ |
+| Machine Learning Track ✅ | NTI — Ministry of Communications, Egypt |
+| Fundamentals of Deep Learning ✅ | NVIDIA |
+
+📄 [View All Certificates](https://github.com/v7med7elmy-ai/certifications)
 ---
 
 ## 📊 GitHub Stats
